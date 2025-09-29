@@ -1,6 +1,5 @@
 
-' Module name: ModuleObjectsOrder
-
+Attribute VB_Name = "ModuleObjectsOrder"
 Option Explicit
 
 ' Moves the selected object one layer forward
